@@ -1,0 +1,6 @@
+server:
+  ssl:
+    key-alias: youralias
+    key-store: classpath:keystore.p12
+    key-store-password: 1234
+
